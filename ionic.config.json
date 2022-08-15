@@ -1,7 +1,8 @@
 {
   "name": "ionic-deeplinks",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
